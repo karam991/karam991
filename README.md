@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Karam 👋
 
-<!--
-**karam991/karam991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a multilingual developer based in Leipzig, Germany, with a background spanning iOS development, web development, and IT support. I build practical apps that solve real problems.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**iOS:** Swift · SwiftUI · Firebase · Firestore · REST APIs · async/await · MVVM  
+**Web:** React · Python · SQL  
+**Tools:** Xcode · Git · Figma · Firebase Console
+
+## 📱 Featured Projects
+
+### [DeepBlueWeather](https://github.com/karam991/DeepBlueWeather)
+An iOS app for scuba divers combining marine weather forecasting with dive planning.  
+`SwiftUI` `Firebase` `Firestore` `Open-Meteo API` `MVVM` `async/await`
+
+### [MovieBank](https://github.com/karam991/MovieBank_abschluss_projekt_karam)
+An Android app to browse recent and classic movies with details.  
+`Kotlin` `Android`
+
+## 🌍 Languages
+German · English · Arabic
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/karam-alnaser) · Leipzig, Germany
