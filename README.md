@@ -22,4 +22,4 @@ An Android app to browse recent and classic movies with details.
 German · English · Arabic
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/karam-alnaser) · Leipzig, Germany
+[LinkedIn](https://www.linkedin.com/in/karam-alnaser-81a5a288/) · karam_nas991@hotmail.com · Leipzig, Germany
